@@ -61,6 +61,13 @@ Working on this task helped me:
 
 ---
 
+🖼️ Screenshot
+
+![App Screenshot](screenshot.png)  
+<sub>📸 Screenshot of the Calendar & Reminder App UI</sub>
+
+---
+
 ## 📂 Repository Contents
 
 - `main.py`: The complete Python source code for the app
